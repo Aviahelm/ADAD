@@ -1,6 +1,6 @@
 ---
 title: Another Death Another Day
 ---
+Welcome to the World of ADAD.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+

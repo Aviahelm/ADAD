@@ -1,5 +1,11 @@
 ![Kerrick](/static/images/jack_stone.png)
 
+| Badge Number | Age | Gender | Height | Rank          |
+| ------------ | --- | ------ | ------ | ------------- |
+| 1612         | 37  | Male   | 5'10   | Sr. Detective |
+
+## Backstory
+
 The muddy, tainted streets in the lower Gloom were subject to rain which lashed down relentlessly upon those unfortunate few who were unable to find shelter. One would think that this much rain would wash the so called ‘muddy’ streets, but it only paved the way to show an even more dirty pathway below. And on this particular night, there were deeds unfolding far darker than the night was black, and in degrees more colourful than the curses of the street urchins. It was in these unpleasant smog filled alleys you would find Jack Stone with the collar of his trenchcoat turned up, and his hat tipped real low. 
 
 Having had spent most of his youth running in delinquent gangs in the Gloom, Jack knew how the streets worked. It often came in quite handy during his junior years in the force. He knew the back alleys and wasn’t afraid to trade a favour or two with his old connections, and he certainly didn’t mind shaking hands under the table if it meant getting a fresh lead or keeping some eyes peeled. He was also a fast learner and was quick on the uptake for when to offer some insight  and chip in, and when to shut the fuck up and nod. His charming likability and wit was only a part of what fast tracked his promotion. He was a hard worker and wasn’t afraid to do the dirty work that his superiors were too, in Jack’s words, delicate to handle. Most importantly, he had a knack for being in the right place at the right time and was good at finding things.

@@ -16,14 +16,20 @@ It was his mother’s dying words, her catchphrase she repeated to him when he w
 
 ## The Dreamer
 You still imagine a world that could be better. It keeps you going.
-Bonus: You resist despair and can rekindle hope in others.
-Drawback: You’re naive to manipulation and often underestimate how dark people can be. 
+
+**Bonus**: You resist despair and can rekindle hope in others.
+
+**Drawback**: You’re naive to manipulation and often underestimate how dark people can be. 
 
 ## The Romantic
 You chase beauty, danger, and connection in a world that offers none.
-Bonus: You form deep bonds quickly; gain advantage in emotional or seductive situations.
-Drawback: You get attached — and that’s how people get hurt.
+
+**Bonus**: You form deep bonds quickly; gain advantage in emotional or seductive situations.
+
+**Drawback**: You get attached — and that’s how people get hurt.
 ## Well-Connected
 You know people in all the wrong places — informants, barkeeps, a few low-level crooks who owe you favors.
-Bonus: You can call in small favors or get information faster than most.
-Drawback: Contacts expect payback. Ignore them too long and they might sell you out next time.
+
+**Bonus**: You can call in small favors or get information faster than most.
+
+**Drawback**: Contacts expect payback. Ignore them too long and they might sell you out next time.

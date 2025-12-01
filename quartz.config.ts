@@ -23,32 +23,36 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Limelight",
+        body: "Faculty Glyphic",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#f3efe7",         // warm paper ivory
-          lightgray: "#e2d9c9",     // faded parchment edge
-          gray: "#b7a999",          // pencil graphite on aged paper
-          darkgray: "#5a554f",      // muted ink
-          dark: "#2f2b28",          // coffee-ground brown-black
-          secondary: "#5e473a",     // roasted coffee brown
-          tertiary: "#8d7f6d",      // sepia accent
-          highlight: "rgba(120, 98, 85, 0.15)", // soft coffee wash
-          textHighlight: "#fff8aa88", // pale yellow highlighter
+            light: "#f5f1e6",          // soft ivory paper
+            lightgray: "#e0dbd2",      // muted notebook margin
+            gray: "#a79f94",           // graphite pencil-gray
+            darkgray: "#58534c",       // ink-on-paper charcoal
+            dark: "#2c2a27",           // deep noir ink
+
+            secondary: "#5f7f8a",      // solarized blue → cooled, muted
+            tertiary: "#7d8f82",       // solarized green → desaturated sage
+            highlight: "rgba(147, 157, 145, 0.18)", // paper shadow wash
+            textHighlight: "#fef3a288", // soft solarized yellow highlight
+
         },
         darkMode: {
-          light: "#1b1c1e",          // cool charcoal, not muddy
-          lightgray: "#2a2c2f",      // graphite shadow
-          gray: "#515458",           // steel-gray midpoint
-          darkgray: "#c7cace",       // fog-silver for readable light text
-          dark: "#eceeef",           // crisp off-white
-          secondary: "#8fa6b5",      // cool mist-blue accent
-          tertiary: "#9ab0a7",       // soft desaturated sage
-          highlight: "rgba(150, 170, 185, 0.16)",  // cool mist glow
-          textHighlight: "#d8d06b66", // softer, less muddy yellow highlight
+              light: "#1b1f22",          // cool black-ink charcoal (base)
+              lightgray: "#2d3236",      // graphite shadow
+              gray: "#596065",           // desaturated steel-gray
+              darkgray: "#c4c8cc",       // silver text (not blue-tinted)
+              dark: "#efefef",           // crisp off-white
+
+              secondary: "#6c8fa0",      // solarized cyan → cooled, steely
+              tertiary: "#8aa093",       // solarized green → muted sage-noir
+              highlight: "rgba(130, 150, 170, 0.20)", // cool moonlight glow
+              textHighlight: "#e3d67866", // softer solarized yellow highlight
+
         },
       },
     },

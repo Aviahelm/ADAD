@@ -1,4 +1,12 @@
-![Kerrick](/static/images/jack_stone.png)
+---
+title: Jack Stone
+draft: false
+tags:
+  - Player
+  - Police_Officer
+enableToc: "false"
+---
+ ![Jack Stone](/static/images/jack_stone.png)
 
 | Badge Number | Age | Gender | Height | Rank          |
 | ------------ | --- | ------ | ------ | ------------- |

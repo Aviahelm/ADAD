@@ -1,0 +1,43 @@
+---
+title: Connor
+draft: true
+tags:
+  - Police_Officer
+enableToc: "false"
+---
+Pronounced: 
+
+| NAME | PRONOUNS | STATUS |
+| ---- | -------- | ------ |
+|      |          |        |
+
+### Occupation:
+
+
+
+### Location:
+
+
+
+### Appearance:
+
+
+
+### Mannerisms: 
+
+
+
+### Allegiance: 
+
+
+
+### Public Perception:
+
+
+
+### Relationships:
+
+
+## Credits
+
+Art by: Dispatch - [Chase](https://dispatch.fandom.com/wiki/Chase) 
